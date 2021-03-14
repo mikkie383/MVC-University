@@ -9,7 +9,6 @@ a.navbar-brand {
     word-break: break-all;
 }
 
-
 /* Provide sufficient contrast against white background */
 a {
   color: #0366d6;
@@ -64,10 +63,8 @@ html {
 body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
-    background-color: #FAACA8;
-    background-image: linear-gradient(19deg, #FAACA8 0%, #DDD6F3 100%);
-    font-family: 'Akaya Telivigala', cursive;
 }
+
 .footer {
   position: absolute;
   bottom: 0;
